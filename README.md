@@ -138,6 +138,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 Estudante de Java com foco em back-end, refatoração, boas práticas e domínio de código limpo.
 
 Conecte-se comigo:  
-[![LinkedIn](https://www.linkedin.com/in/jorgemeireles12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemeireles12/)
+
 
 ---
